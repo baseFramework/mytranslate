@@ -1,0 +1,47 @@
+{
+  "name": "mytranslate",
+  "version": "0.0.1",
+  "author": "rahul",
+  "private": true,
+  "main": "server/index.js",
+  "dependencies": {
+    "async": "^1.5.2",
+    "body-parser": "~1.0.0",
+    "cookie-parser": "~1.0.1",
+    "cookies": "^0.5.0",
+    "errorhandler": "1.1.1",
+    "express": "4.6.1",
+    "fs-extra": "^0.30.0",
+    "hooks-fixed": "^1.1.0",
+    "http-proxy": "1.1.5",
+    "kareem": "^1.0.1",
+    "localstorage-memory": "^1.0.2",
+    "log4js": "^0.6.38",
+    "lrucache": "1.0.0",
+    "moment": "^2.14.1",
+    "moment-timezone": "^0.5.4",
+    "mpath": "^0.2.1",
+    "mpromise": "^0.5.5",
+    "mquery": "^1.10.0",
+    "ms": "^0.7.1",
+    "muri": "^1.1.0",
+    "node-schedule": "1.1.0",
+    "q": "~0.9.7",
+    "regexp-clone": "0.0.1",
+    "request": "~2.47.0",
+    "shortid": "^2.2.4",
+    "sliced": "^1.0.1",
+    "superagent": "~0.15.7",
+    "urllib": ">=0.5.2",
+    "validator": "^5.4.0",
+    "memory-cache":"^0.1.6",
+    "yql":"1.0.2"
+  },
+  "devDependencies": {
+    "imageinfo": "^1.0.4",
+    "walk": "^2.3.9"
+  },
+  "engines": {
+    "node": ">=4.7.0"
+  }
+}
